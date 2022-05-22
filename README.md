@@ -1,8 +1,7 @@
 # Hi there, I'm Chrystian - [developer]👋 
 
 
-[![Portfólio](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](null)
-[![Twitter Follow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F10744%2Fhd-white-round-twitter-icon-png&psig=AOvVaw241zksTNENTsys6N8MIOwA&ust=1653343202295000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCK9cmN9PcCFQAAAAAdAAAAABAD)](https://twitter.com/Chrystiandog)
+[![Twitter Follow](https://img.icons8.com/ios-filled/344/twitter.png)](https://twitter.com/Chrystiandog)
 
 
 
