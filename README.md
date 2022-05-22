@@ -1,7 +1,7 @@
 # Hi there, I'm Chrystian - [developer]👋 
 
 
-[![Twitter Follow](https://img.icons8.com/ios-filled/344/twitter.png)](https://twitter.com/Chrystiandog)
+[![Twitter Follow]()](https://twitter.com/Chrystiandog)
 
 
 
@@ -13,11 +13,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/Chrystiandog#gh-dark-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/Chrystiandog#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chrystian-abal-036448232/)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chrystian-abal-036448232/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/chrystian.ag#gh-dark-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/chrystian.ag#gh-dark-mode-only)
 
 ### Languages and Tools:
 
